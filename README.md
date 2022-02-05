@@ -39,7 +39,7 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🌱 Exploring UI/UX Design and Technical Content Writing.
 - ⚡ In my free time, I read tech articles.
 - 👯 I’m looking to collaborate in open source projects
-- 💬 Ask me about web development realted stuffs
+- 💬 Ask me about web development related stuffs
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abigaelanyanwu@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love classical music 😀
